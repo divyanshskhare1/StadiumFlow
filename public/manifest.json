@@ -1,0 +1,21 @@
+{
+  "name": "StadiumFlow Smart PWA",
+  "short_name": "StadiumFlow",
+  "description": "An AI-powered Smart Crowd Management application providing real-time telemetry and heatmap monitoring.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#2b6cb0",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
